@@ -46,7 +46,7 @@
 
 ### 1️⃣ **Clonar el Repositorio**  
 ```bash
-git clone https://github.com/Borquinho/login-register.git
+git clone https://github.com/JuanDP10/login-register.git
 cd login-register-pwa
 ```
 
