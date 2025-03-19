@@ -88,6 +88,15 @@ Para instalar como PWA en tu dispositivo:
 
 ---
 
+## 📸 Capturas de pantalla
+![image](https://github.com/user-attachments/assets/53b3cd2d-16bc-46a1-af64-5df847a2395e)
+![image](https://github.com/user-attachments/assets/5ff5aadd-3e55-479d-9b6e-76732422bcc5)
+![image](https://github.com/user-attachments/assets/09602b53-aec0-4376-9aa1-0b6ad271aed2)
+![image](https://github.com/user-attachments/assets/6597a7d3-9551-4b20-8cca-52634c4521e2)
+
+
+---
+
 ## 📝 Licencia  
 Este proyecto está bajo la licencia **MIT**. 
 
