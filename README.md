@@ -89,6 +89,12 @@ Para instalar como PWA en tu dispositivo:
 ---
 
 ## 📝 Licencia  
-Este proyecto está bajo la licencia **MIT**.  
+Este proyecto está bajo la licencia **MIT**. 
+
+---
+
+## 📞 Contacto  
+✉️ **Correo:** pinillamontoyajuandiego@gmail.com  
+🐙 **GitHub:** [JuanDP10](https://github.com/JuanDP10)  
 
 
