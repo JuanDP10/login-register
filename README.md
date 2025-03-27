@@ -1,4 +1,4 @@
-# 🛡️ LOGIN & REGISTER - Sistema de Autenticación con PWA
+# 🛡️ Login & Register - Sistema de Autenticación con PWA
 
 ## 📌 Descripción  
 **LOGIN & REGISTER** es un sistema de autenticación basado en PHP, JavaScript y MySQL, con soporte para **Progressive Web App (PWA)**, permitiendo el uso sin conexión y mejorando la experiencia del usuario con validaciones avanzadas.  
